@@ -1,0 +1,1 @@
+https://oauth.vk.com/blank.html#access_token=2e356ba86b8a113ae47a82942b0a6bbb6011764bfd29d036204b87ef71f5677c31e75e62c47580f2170fb&expires_in=0&user_id=25267198
