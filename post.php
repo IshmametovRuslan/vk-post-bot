@@ -1,0 +1,1 @@
+<a href="https://api.vk.com/method/wall.post?owner_id=31589388&message=hello">post</a>
