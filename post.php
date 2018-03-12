@@ -1,1 +1,1 @@
-<a href="https://api.vk.com/method/wall.post?owner_id=31589388&message=hello">post</a>
+<a href="https://api.vk.com/method/wall.post?owner_id=-163403326&access_token=c3d33979acee40a389422e8fe9c2d19c596d1576bf2ddbe6c3999dff46c1e99a1005e0ee1273545ed34d9&v=5.73&message=hello">post</a>
